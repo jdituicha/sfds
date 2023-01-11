@@ -1,11 +1,11 @@
 # São Francisco do Sul
 
----
+São Francisco do Sul, ou “São Chico”, como é carinhosamente chamada.
 
 ## Geografía
 Más de 50.000 habitantes. 
 Es una isla que se conecta al continente mediante un terraplén (aterro) y un puente pequeño. Se puede ingresar por auto o por balsa. 
-San Francisco está situado en el extremo norte de la isla del mismo nombre, a la entrada de la bahía de Babitonga. 
+San Francisco está situado en el extremo norte de la isla del mismo nombre, a la entrada de la bahía de Babitonga (estuario donde podemos encotrar al golfinho invisível. Es la especie de delfín mas amenazada del Atlántico Sur). 
 
 ### [Bahía](https://es.wikipedia.org/wiki/Bah%C3%ADa) de Babitonga
 La bahía de Babitonga (en portugués, Baía da Babitonga, que en lengua indígena significa murciélago) es una bahía en la costa brasileña en el océano Atlántico Sur. 
@@ -56,6 +56,21 @@ La Villa de San Francisco perteneció a la audiencia (ouvidoria) de São Paulo, 
 ### Ciudad
 En 1847 fue elevada la villa a la categoría de ciudad. 
 
+### Historia Extendida
+Antes de que los portugueses desembarcaran en el territorio de São Francisco do Sul y trajeran el carácter [lusitano](https://es.wikipedia.org/wiki/Lusitanos) a la ciudad, algunos navegantes franceses y españoles ya habían pasado por la región.
+
+Posiblemente, la primera expedición europea en el territorio fue la del francés **Binot Palmier de Gonneville**, quien llegó el 5 de enero de 1504. 
+La región estaba habitada por los **indios Carijós** y el jefe de la tribu se llamaba **Arosca**. 
+En el tiempo que los franceses estuvieron aquí, unos seis o siete meses, se hicieron amigos de los indios. 
+Antes de regresar a Europa, Binot le propuso al Cacique Arosca que su hijo **Içá-Mirim** fuera con él a Francia, para enseñarle el arte de la guerra, con la promesa de traerlo de regreso en 20 lunas. Arosca accedió siempre que fuera acompañado de un indio mayor de edad, su nombre era **Namoa**. El viaje de regreso a tierras europeas fue algo accidentado, Binot perdió a la mitad de su tripulación, junto con el indio Namoa. Al llegar a Europa, Binot ya no pudo financiar sus viajes, incumpliendo así su promesa a Arosca. Para compensar el trato roto, Binot casó a Içá-Mirim con su hija **Suzanne**, garantizándole su nombre y parte de sus bienes.
+
+Después de décadas, los españoles también desembarcaron aquí, fundaron un asentamiento, en el mismo lugar previamente visitado por los franceses. La intención de los españoles era llegar a las minas de plata ubicadas en los Andes. Su estancia en la isla duró sólo dos años (1553 a 1555), pero fue en este período cuando nació el ilustre **Frei Fernando Trejo y Sanabria**, más tarde obispo de **Tucumã**. São Francisco do Sul, como lo señala su historia, es el primer asentamiento de Santa Catarina.
+
+El inicio de la colonización portuguesa se atribuye a **Manoel Lourenço de Andrade**, que vino de São Vicente con su familia, esclavos y agregados. Se supone que la villa fue reconocida en 1658 y elevada a la categoría de villa en 1660. Cinco años después, la villa es reconocida como **Paróquia Nossa Senhora da Graça**.
+Con la muerte de Manoel, el pueblo pasó a ser comandado por **Domingos Francisco Francisques**, o simplemente “**Cabecinha**”, quien con el tiempo se hizo conocido por sus malas acciones. Cabecinha comenzó a ser odiado por el pueblo y fue condenado a muerte por el magistrado **Rafael Pires Pardinho**, que estaba en San Francisco para restaurar el orden en 1720, sin embargo, logró escapar de la justicia. Otros administradores como Agostinho Alves Martinho, Antônio de Oliveira Sercal y Sebastião Fernandes Camacho administraron la villa entre 1711 y 1733.
+La villa evolucionó gradualmente hasta que fue elevada a la categoría de ciudad por la ley provincial nº 249 en abril de 1847, con el nombre oficial de São Francisco do Sul el 18 de diciembre de 1938.
+São Francisco do Sul estaba poblado principalmente por portugueses de São Vicente - São Paulo, y también de los archipiélagos de Madeira y Azores.
+
 
 ## Praias
 Orden por cercanía:
@@ -79,7 +94,7 @@ El “Casqueiro” aún conserva la historia en su antiguo cementerio o en el ru
 El nombre se lo dieron los indígenas, por ser un lugar de donde extraían caparazones que, combinados con aceite de ballena, se utilizaban como materia prima para la construcción de viviendas.
 [ir al cementerio](https://goo.gl/maps/xUQDnC9ryTAQ8EM28) entrada frente al [Deck da Trilha do Casqueiro](https://goo.gl/maps/59vnbvysbhRm3KVu7).
 
-#### Parque Estatal Acaraí
+#### Parque Estatal Acaraí (dunas e [restingas](https://es.wikipedia.org/wiki/Restinga))
 Pasea por los senderos y observa varias especies de bromelias, reptiles, pájaros e incluso osos hormigueros - la visita al Parque es una experiencia de interacción con la naturaleza que no se puede dejar de lado de tu guión. Y para disfrutar aún más del recorrido, la sugerencia está contratando un guía de ecoturismo. Consultar a la Secretaría Municipio de Turismo y elige uno de los profesionales indicados para realizar la visita.
 Para más información, visite: https://ima.sc.gov.br/
 ir al Parque Estatal Acaraí](https://goo.gl/maps/cvXj6kxQa2tCC6J99).
@@ -220,7 +235,9 @@ Contiene a la ilha da paz la mayor de todas que en 1906 se inauguró con una tor
 
 ## Distrito do Saí
 Almuerzo en Via Gastronômica, baño en el mar o en una cascada, paseos en barco y hermosos paisajes bordeados por la Baía Babitonga, esto es de todo un poco de lo que hay para vivir en el Distrito do Saí, que es el nombre de la región continental de la ciudad.
-Para llegar al pueblo, la forma más adecuada es en ferry. En Joinville, el embarque es en Praia do Vigorelli y el viaje dura aproximadamente 10 minutos. Desde San Francisco, aborda el Bairro de Laranjeiras, el tiempo de viaje es de 45 minutos. 
+Está formado por las siguientes comunidades: Vila da Glória, Praia do Alvarega, Praia Bonita, Estaleiro, Frias, Ramos, Torno de Pintos, Lamin, Saí-Mirim y Serrinha. Entre las comunidades que más se destacan está Vila da Glória, que tiene una iglesia que alberga una imagen de Nossa Senhora da Glória, que da nombre a la comunidad y tiene una fiesta en su honor siempre en el mes de agosto. Una comunidad amigable y una buena gastronomía realzan aún más los dones que la naturaleza ofrece en el lugar.
+
+Para llegar la forma más adecuada es en ferry. En Joinville, el embarque es en Praia do Vigorelli y el viaje dura aproximadamente 10 minutos. Desde San Francisco, aborda el Bairro de Laranjeiras, el tiempo de viaje es de 45 minutos. 
 Disfrutar de la vista de la bahía, que es un espectáculo en sí mismo, y estar atentos: si tienes suerte, puedes ver nadar a los [botos cinza](https://es.wikipedia.org/wiki/Sotalia_guianensis) de río en esta región.
 
 ### Trilha e Banho de Cachoeira na Vila da Glória
@@ -228,6 +245,9 @@ Disfrutar de la vista de la bahía, que es un espectáculo en sí mismo, y estar
 Para llegar a la cascada hay que caminar un sendero de 300 m, que termina en una cascada de 18 metros de altura y en las tres piscinas naturales de aguas cristalinas.
 Horario: todos los días, de 07h a 17h.
 Acceso por Avenida Lindolfo Freitas Ledoux y Estrada do Saí.
+#### Vila da glória:
+Que alberga pescadores y la capilla de [Nuestra señora de la gloria ](https://hinsching.wordpress.com/2019/01/24/paroquia-nossa-senhora-da-gloria-do-sai-sfs/)1855.
+NOTA:[ En R.babitonga, 62](https://goo.gl/maps/CXqEaE9Pgtf8yLJs5), también puede haber otras atracciones en temporada alta.  [En el mapa.](https://goo.gl/maps/MtFnCLYmKzfY3kdX8)
 
 #### Ferry Boat Itapoá
 Av. Lindolfo Freitas Ledoux Sfs-230, 5164-5174 - Vila da Gloria, São Francisco do Sul - SC, 89240-000, Brazil   
@@ -245,24 +265,20 @@ Saída Laranjeiras
 - [ir a Ferry Boat Itapoá](https://goo.gl/maps/avugYADSVBazjfRH9)
 
 ## Tours 
+
 ### Passeio de Escuna - Baía Babitonga
 Capitão Vô Preto e o Holandês Voador son Escuna (Goletas), en realidad son barcos comunes estilizados.
 Tiene recorridos diarios durante la alta temporada que lleva a los turistas por la bahía de Babitonga para un recorrido de 14 islas, duración de 3 a 4 horas. La salida es desde Trapiche do Centro Histórico e **o passeio tem opção de almoço na [Vila da Glória](https://goo.gl/maps/zfqDF9R3Xgc15uDf7)** e parada para banho na [Ilha da Flores](https://goo.gl/maps/cNDm7mmx7JetD3kw6).
 Todos los días durante la temporada – de 11:30 a 15:30.
 - Secretaria de Turismo - R. Babitonga, 62 - Centro Histórico
 - Fone dos Escuneiros: (47) 99189-5027 / 99249-1709
-#### Vila da glória:
-Que alberga pescadores y la capilla de [Nuestra señora de la gloria ](https://hinsching.wordpress.com/2019/01/24/paroquia-nossa-senhora-da-gloria-do-sai-sfs/)1855.
-NOTA:[ En R.babitonga, 62](https://goo.gl/maps/CXqEaE9Pgtf8yLJs5), también puede haber otras atracciones en temporada alta.  [En el mapa.](https://goo.gl/maps/MtFnCLYmKzfY3kdX8)
+
 
 ## Otros
 
 Economía portuaria, Petrobras.
-
-Es la ciudad más antigua del estado de Santa Catarina. En 1738 fué capital de estado 
-
-Baía da babitonga es un estuario. Golfinho invisível. Es la especie de delfín mas amenazada del Atlántico Sur.
-
-Parque estadual acaraí (dunas e restingas).
-
 Ilha de rita abastecimiento de la biosfera se dieron la segunda Guerra mundial. 
+
+
+
+
