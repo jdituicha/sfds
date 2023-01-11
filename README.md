@@ -126,7 +126,7 @@ Rústico, pacífico y salvaje. Muy buscado por los amantes de la naturaleza, sur
 [Ir al Mirante do Parque Acaraí](https://goo.gl/maps/6a4uQ5YYbVC1Wy847)
 #### Ruinas do Casqueiro
 
-![cemenenterio](https://www.researchgate.net/publication/318310321/figure/fig4/AS:514202098176000@1499606741033/Figura-4-Cemiterio-do-Casqueiro-Fonte-Arquivo-pessoal-As-cruzes-do-cemiterio-do.png)
+![cemenenterio]([https://www.researchgate.net/publication/318310321/figure/fig4/AS:514202098176000@1499606741033/Figura-4-Cemiterio-do-Casqueiro-Fonte-Arquivo-pessoal-As-cruzes-do-cemiterio-do.png](https://www.researchgate.net/profile/Andrea-Zanella-6/publication/318310321/figure/fig4/AS:514202098176000@1499606741033/Figura-4-Cemiterio-do-Casqueiro-Fonte-Arquivo-pessoal-As-cruzes-do-cemiterio-do.png))
 
 El “Casqueiro” aún conserva la historia en su antiguo cementerio o en el ruinas de la iglesia de São Sebastião, cuyo registro en una [pilastra](https://es.wikipedia.org/wiki/Pilastra) data 1771. 
 El nombre se lo dieron los indígenas, por ser un lugar de donde extraían caparazones que, combinados con aceite de ballena, se utilizaban como materia prima para la construcción de viviendas.
@@ -245,7 +245,7 @@ Más de 400 casonas antiguas que son catalogadas patrimonio histórico de la [IP
 2. [Casarão família Carvalho](https://www.saofranciscodosul.sc.gov.br/14-casarao-familia-carvalho). ![carvalho](https://www.saofranciscodosul.sc.gov.br/img/conteudo/images/Fachadas%20Centro%20Hist%C3%B3rico%2010x15.jpg)
 3. [Casarão família Marcantoni](https://www.saofranciscodosul.sc.gov.br/25-casarao-familia-marcantoni). ![marcantoni](https://www.saofranciscodosul.sc.gov.br/img/conteudo/images/DSCN0744.jpg)
 4. [Casarão Görresen.](https://www.saofranciscodosul.sc.gov.br/2-casarao-gorresen) ![gorresen](https://www.saofranciscodosul.sc.gov.br/img/conteudo/images/Praia%20do%20Mota%202007%20(11).jpg)
-5. [Casarão Musse.](https://www.saofranciscodosul.sc.gov.br/24-casarao-musse) ![musse](https://www.saofranciscodosul.sc.gov.br/img/conteudo/images/IMG_9784.jpg)
+5. [Casarão Musse.](https://www.saofranciscodosul.sc.gov.br/24-casarao-musse)  ![musse](https://www.saofranciscodosul.sc.gov.br/img/conteudo/images/IMG_9784.jpg)
 6. [Casa Velci Pezzinni](https://www.saofranciscodosul.sc.gov.br/30-casa-velci-pezzinni). ![pezzini](https://www.saofranciscodosul.sc.gov.br/img/conteudo/images/WhatsApp%20Image%202021-08-10%20at%2012.35.17%20(2).jpeg)
 7. [O sobrado Do Beco Geral.](https://www.saofranciscodosul.sc.gov.br/13-o-sobrado-do-beco-geral) ![sobrado](https://www.saofranciscodosul.sc.gov.br/img/conteudo/images/DSCF0163.jpg)
 
@@ -284,6 +284,7 @@ En total fueron 5, hoy solo quedan 3:
 1. [Carioca da rua marechal floriano ](https://www.saofranciscodosul.sc.gov.br/29-a-carioca-da-rua-marechal-floriano). Esta tradicional y antigua fuente de abastecimiento aparece desde 1819 en los libros municipales del antiguo Ayuntamiento. Está ubicado en el **Largo da Carioca**(Plaza Largo da Carioca), que une las **calles Marechal Floriano Peixoto, General Osório y Benjamim Constant**. Según relatos de antiguos pobladores, es un remanente del siglo XVII y aún sigue en funcionamiento. ![mas-antigua](https://www.saofranciscodosul.sc.gov.br/img/conteudo/images/IMG_9887.jpg)
 2. Carioca en Rua Marcílio Dias, ubicada en la **Rua Marcílio Dias** en estilo colonial y fue recientemente recuperado. ![carioca](https://hinsching.files.wordpress.com/2019/09/528442_123131477883978_96865142_n-1.jpg?w=445)
 3. Itapoca, se encuentra en **la Rua Coronel Oliveira** , justo después del puente de Pedreira, en forma de cueva, construida con piedra y cal. Recibió este nombre, según la tradición local, allí crecía mucho bambú.  Al día de hoy, mantiene su construcción original. Las aguas cristalinas todavía brotan de los caños y son consumidas tanto por la población local como por los turistas. (no consumir pd. jd). ![itapoca](https://i0.wp.com/jornaldelaguna.com.br/wp-content/uploads/2018/11/Fonte-da-Carioca.jpg)
+
 Nota: la imágen de Itapoca podría no corresponder.
 
 ### [Parque Ecológico Celso Amorim Salazar Pessoa.](https://www.saofranciscodosul.sc.gov.br/21-morro-do-hospicio-e-parque-ecologico-celso-amorim-zalazar-pessoa)
