@@ -1,5 +1,5 @@
 # São Francisco do Sul
-
+![ciudad antigua](https://static.coalize.com.br/data/images/sao-francisco-do-sul-sc.jpg)
 São Francisco do Sul, ou “São Chico”, como é carinhosamente chamada.
 
 ## Geografía
@@ -123,7 +123,6 @@ y disfruta cada momento de este espectáculo de la naturaleza.
 También es el lugar donde los pescadores sacan el pez [Tainha](https://es.wikipedia.org/wiki/Mugil_platanus) con canoas de un solo tronco, antigua costumbre indígena. (en invierno)
 [ir a Praia Do Ubatuba](https://goo.gl/maps/SCCTQkxkxJJCVT5V9)
 
-![tainha](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Mugil_cephalus.jpg/1920px-Mugil_cephalus.jpg)
 #### Praia de Itaguaçu
 Playa tranquila apta para el baño, perfecta para paseos con la familia, pescando en las orillas, deportes de arena y algunos días también es posible surfear en sus olas.
 Al final de la playa, junto a Morro João Dias, se encuentran las arenas de [monacita ](https://es.wikipedia.org/wiki/Monacita)con gran poder terapéutico – una invitación para los que les gusta relajarse con la naturaleza.
