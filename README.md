@@ -330,7 +330,7 @@ Contiene a la ilha da paz la mayor de todas que en 1906 se inauguró con una tor
 
 ## Distrito do Saí
 
-![mapadellugar](https://www.researchgate.net/publication/312563918/figure/fig1/AS:452812489400320@1484970318500/Figura-1-Localizacao-de-Sao-Francisco-do-Sul-com-destaque-para-o-Distrito-do-Sai.png)
+![Ver Mapa](https://www.researchgate.net/publication/312563918/figure/fig1/AS:452812489400320@1484970318500/Figura-1-Localizacao-de-Sao-Francisco-do-Sul-com-destaque-para-o-Distrito-do-Sai.png)
 
 Almuerzo en Via Gastronômica, baño en el mar o en una cascada, paseos en barco y hermosos paisajes bordeados por la Baía Babitonga, esto es de todo un poco de lo que hay para vivir en el Distrito do Saí, que es el nombre de la región continental de la ciudad.
 Está formado por las siguientes comunidades: Vila da Glória, Praia do Alvarega, Praia Bonita, Estaleiro, Frias, Ramos, Torno de Pintos, Lamin, Saí-Mirim y Serrinha. Entre las comunidades que más se destacan está Vila da Glória, que tiene una iglesia que alberga una imagen de Nossa Senhora da Glória, que da nombre a la comunidad y tiene una fiesta en su honor siempre en el mes de agosto. Una comunidad amigable y una buena gastronomía realzan aún más los dones que la naturaleza ofrece en el lugar.
@@ -374,6 +374,9 @@ Saída Laranjeiras
 - [ir a Ferry Boat Itapoá](https://goo.gl/maps/avugYADSVBazjfRH9)
 
 ## Tours 
+
+![mapa](https://1.bp.blogspot.com/-UhoFv1_EvcY/TgaItakrqcI/AAAAAAAAF7A/5mZzGeAXNwU/s1600/mapa_sao_francisco_do_sul.jpg)
+
 
 ### Passeio de Escuna - Baía Babitonga
 
