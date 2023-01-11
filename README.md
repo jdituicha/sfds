@@ -11,6 +11,7 @@ Clima – Templado, con una temperatura promedio entre 15ºC y 25ºC. Altitud �
 
 Es una isla que se conecta al continente mediante un terraplén (aterro) y un puente pequeño. Se puede ingresar por auto o por balsa. 
 San Francisco está situado en el extremo norte de la isla del mismo nombre, a la entrada de la bahía de Babitonga (estuario donde podemos encotrar al golfinho invisível. Es la especie de delfín mas amenazada del Atlántico Sur). 
+
 ![baia da babitonga](https://upload.wikimedia.org/wikipedia/commons/c/c0/IlhaS%C3%A3oFranciscodoSul%26Joinville.jpg)
 
 
