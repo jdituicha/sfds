@@ -9,6 +9,8 @@ Principales etnias – portuguesa.
 Superficie – 540,8 Km2. 
 Clima – Templado, con una temperatura promedio entre 15ºC y 25ºC. Altitud – 09m sobre el nivel del mar.
 
+![golfinho](https://folhalitoral.com.br/wp-content/uploads/2022/09/Golfinho-Toninha.jpg)
+
 Es una isla que se conecta al continente mediante un terraplén (aterro) y un puente pequeño. Se puede ingresar por auto o por balsa. 
 San Francisco está situado en el extremo norte de la isla del mismo nombre, a la entrada de la bahía de Babitonga (estuario donde podemos encotrar al golfinho invisível. Es la especie de delfín mas amenazada del Atlántico Sur). 
 
@@ -126,7 +128,7 @@ Rústico, pacífico y salvaje. Muy buscado por los amantes de la naturaleza, sur
 [Ir al Mirante do Parque Acaraí](https://goo.gl/maps/6a4uQ5YYbVC1Wy847)
 #### Ruinas do Casqueiro
 
-![cemenenterio]([https://www.researchgate.net/publication/318310321/figure/fig4/AS:514202098176000@1499606741033/Figura-4-Cemiterio-do-Casqueiro-Fonte-Arquivo-pessoal-As-cruzes-do-cemiterio-do.png](https://www.researchgate.net/profile/Andrea-Zanella-6/publication/318310321/figure/fig4/AS:514202098176000@1499606741033/Figura-4-Cemiterio-do-Casqueiro-Fonte-Arquivo-pessoal-As-cruzes-do-cemiterio-do.png))
+![cemenenterio]([https://www.researchgate.net/publication/318310321/figure/fig4/AS:514202098176000@1499606741033/Figura-4-Cemiterio-do-Casqueiro-Fonte-Arquivo-pessoal-As-cruzes-do-cemiterio-do.png](https://www.researchgate.net/profile/Andrea-Zanella-6/publication/318310321/figure/fig4/AS:514202098176000@1499606741033/Figura-4-Cemiterio-do-Casqueiro-Fonte-Arquivo-pessoal-As-cruzes-do-cemiterio-do.png)
 
 El “Casqueiro” aún conserva la historia en su antiguo cementerio o en el ruinas de la iglesia de São Sebastião, cuyo registro en una [pilastra](https://es.wikipedia.org/wiki/Pilastra) data 1771. 
 El nombre se lo dieron los indígenas, por ser un lugar de donde extraían caparazones que, combinados con aceite de ballena, se utilizaban como materia prima para la construcción de viviendas.
