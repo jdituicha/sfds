@@ -88,7 +88,7 @@ La preservación del centro histórico de la ciudad aseguró la preservación de
 
 ### Porto
 
-![porto](https://static.ndmais.com.br/2020/08/porto-sao-francisco-do-sul.jpg)
+![puerto](https://www.scpar.sc.gov.br/wp-content/uploads/2020/11/1807-50-porto-de-sao-francisco-do-sul-1.jpg)
 La economía de São Francisco do Sul depende en gran medida del puerto ubicado en su territorio, que es considerado uno de los más importantes de Brasil. 
 Quinto más grande del país en movimiento de contenedores, representando cerca de la mitad del movimiento portuario del estado. Ubicado en la bahía de Babitonga, el puerto tiene un canal de acceso de 11 m de profundidad y 4 m de largo.
 Tiene una cede de Petrobras.
