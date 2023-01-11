@@ -71,6 +71,7 @@ Con la muerte de Manoel, el pueblo pasó a ser comandado por **Domingos Francisc
 La villa evolucionó gradualmente hasta que fue elevada a la categoría de ciudad por la ley provincial nº 249 en abril de 1847, con el nombre oficial de São Francisco do Sul el 18 de diciembre de 1938.
 São Francisco do Sul estaba poblado principalmente por portugueses de São Vicente - São Paulo, y también de los archipiélagos de Madeira y Azores.
 
+![praias](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/d2/1c/f2/a-ilha-mais-bela-de-santa.jpg?w=700&h=500&s=1)
 
 ## Praias
 Orden por cercanía:
