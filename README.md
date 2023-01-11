@@ -3,11 +3,12 @@
 São Francisco do Sul, ou “São Chico”, como é carinhosamente chamada.
 
 ## Geografía
-Más de 50.000 habitantes. 
-Colonización – Portuguesa. 
-Principales etnias – portuguesa. 
-Superficie – 540,8 Km2. 
-Clima – Templado, con una temperatura promedio entre 15ºC y 25ºC. Altitud – 09m sobre el nivel del mar.
+- Más de 50.000 habitantes. 
+- Colonización – Portuguesa. 
+- Principales etnias – portuguesa. 
+- Superficie – 540,8 Km2. 
+- Clima – Templado, con una temperatura promedio entre 15ºC y 25ºC. 
+- Altitud – 09m sobre el nivel del mar.
 
 ![golfinho](https://folhalitoral.com.br/wp-content/uploads/2022/09/Golfinho-Toninha.jpg)
 
