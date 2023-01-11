@@ -2,6 +2,10 @@
 ![ciudad antigua](https://static.coalize.com.br/data/images/sao-francisco-do-sul-sc.jpg)
 São Francisco do Sul, ou “São Chico”, como é carinhosamente chamada.
 
+## Mapa
+
+![mapa1](https://1.bp.blogspot.com/-9YFh9oDbZ7M/TgaJhC2o3oI/AAAAAAAAF7I/yHdJY7azehg/s1600/mapa_praias_sao_francisco_do_sul.jpg)
+
 ## Geografía
 - Más de 50.000 habitantes. 
 - Colonización – Portuguesa. 
